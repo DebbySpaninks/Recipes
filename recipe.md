@@ -1,6 +1,6 @@
 # Vegan Creme Brulee
 
-Ingredients
+> ### Ingredients
 
 - 500 g soaked cashews
 - 60 g cacao butter
@@ -10,9 +10,9 @@ Ingredients
 - 1 tsp vanilla extract
 - caster sugar for topping
 
-INSTRUCTIONS
+> ### INSTRUCTIONS
 
-1. Soak the cashews OVERNIGHT, _or boil them for 10 minutes_, then drain and rinse
+1. Soak the cashews **OVERNIGHT**, _or boil them for 10 minutes_, then drain and rinse
 2. Blend together all your ingredients except for the caster sugar
 3. Divide your mixture into 2-5 dishes _depending on your preferred serving size_
 4. Cover with sugar
